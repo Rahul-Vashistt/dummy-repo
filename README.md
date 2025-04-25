@@ -26,4 +26,4 @@ The main goal of this repo is to:
 
 ---
 
-Made with ❤️ just for Git practice.
+Made with love(❤️) just for Git practice.
